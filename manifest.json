@@ -1,0 +1,18 @@
+{
+"manifest_version": 2,
+    "name": "大陸即中國",
+    "description": "以”中國“取代“大陸”，讓世界更美好！",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
