@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "大陸即中國",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "以”中國“取代“大陸”，讓世界更美好！", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}

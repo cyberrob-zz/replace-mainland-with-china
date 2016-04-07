@@ -1,8 +1,15 @@
 {
 "manifest_version": 2,
-    "name": "大陸即中國",
-    "description": "以”中國“取代“大陸”，讓世界更美好！",
+    "name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
     "version": "0.1",
+    "homepage_url": "https://github.com/cyberrob/replace-mainland-with-china",
+    "default_locale": "zh_TW",
+    "icons": {
+            "16": "icons/icon16.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png" 
+        },
     "content_scripts": [
         {
             "matches": [

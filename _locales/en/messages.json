@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Mainland is just China",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Replacing any “大陸” with ”中國“ , make it a better world.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
