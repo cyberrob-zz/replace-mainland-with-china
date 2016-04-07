@@ -16,6 +16,9 @@
                 "http://*/*",
                 "https://*/*"
             ],
+            "exclude_matches" : [
+                "*://github.com/cyberrob/replace-mainland-with-china/*"
+            ],
             "js": [
                 "content.js"
             ],
